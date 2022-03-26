@@ -1,9 +1,16 @@
 # March 25, 2022
 
 - Make food
+
 - Cancel GP membership
+
+  - Call!!! - (403) 948-8804
+
 - What have I subed to
-- Check Student loans
+  - ~Efax
+  - ~GP
+  - X Microsoft 365 Personal
+  - X Resume
 
 ---
 
@@ -13,6 +20,7 @@
 
 - Eat lunch
 - Shower
+- Do taxes!
 
 ---
 
