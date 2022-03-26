@@ -23,15 +23,15 @@
 
 - Pack a bag for myself
 
-  - computer
+  - X computer
   - X ipad
   - X charger
   - X mouse
   - X keyboard
-  - Towel
+  - X Towel
   - X Headphones
 
-- Eat lunch
+- X Eat lunch
 
 - Do taxes!
 
