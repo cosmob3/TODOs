@@ -26,6 +26,13 @@
 
 - Finish Tuesday's vid
 - Work on Assignment?
+  - Reusable vue card components
+  - Set up Props?
+  - use v-if
+  - conditionals
+  - computed
+  - vue event handling
+  - lifecycle hooks
 
 # March 27, 2022
 
