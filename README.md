@@ -14,16 +14,30 @@
 
 ---
 
-- Finish Monday's vid
-
 # March 26, 2022
 
+- Pack oso's pack
+
+  - X food packs(2)
+  - X Leash
+
+- Pack a bag for myself
+
+  - computer
+  - X ipad
+  - X charger
+  - X mouse
+  - X keyboard
+  - Towel
+  - X Headphones
+
 - Eat lunch
-- Shower
+
 - Do taxes!
 
 ---
 
+- Finish Monday's vid
 - Finish Tuesday's vid
 - Work on Assignment?
   - Reusable vue card components
